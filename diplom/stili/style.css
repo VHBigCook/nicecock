@@ -1,0 +1,60 @@
+body{
+  height: ;
+}
+.p-0{
+  padding: 0;
+}
+.pitak-1 {
+  font-size: 50px;
+}
+.sick {
+  width: 50%;
+}
+div.bg1 {
+  background-image: url(../mainsimg/bg1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div.bg2 {
+  background-image: url(../mainsimg/bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div.bg3 {
+  background-image: url(../mainsimg/bg3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div.bg4 {
+  background-image: url(../mainsimg/bg4.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.block4 {
+  padding-left: 80px;
+  background-color: #013220;
+}
+.blocktop {
+  background-color: #0a5f32;
+}
+.blockn {
+  background-color: #114f2d;
+}
+.blocknn {
+  background-color: #e0e0e0;
+}
+.textwarning {
+  color: #ffe200;
+}
+
+.har {
+  text-align: right;
+  margin-left: 
+}
+
+h3.rightb {
+  text-align: right;
+}
+.MG {
+  margin-right: 20px;
+}
